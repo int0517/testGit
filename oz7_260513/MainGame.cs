@@ -1,6 +1,6 @@
 ﻿namespace Game
 {
-    // git
+    // git edit
     class TMain
     {
         public Player p = new Player();
